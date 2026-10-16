@@ -93,4 +93,3 @@ Aspiring Data Analyst | Power BI | SQL | Python
 
 **GitHub:** [View My Projects](https://github.com/RAHULRAIGAR)
 
-**Project Repository:** Add your Blinkit repository URL here.
