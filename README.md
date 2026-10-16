@@ -64,11 +64,11 @@ The project uses the Blinkit sales dataset containing order, product, category, 
 
 [📥 Download Raw Dataset](./Blinkit_Analytics_Raw_Data.xlsx)
 
-*Note: Upload the Excel file to the root of this repository for the download link to work.*
+
 
 ## 📷 Dashboard Preview
 
-Add your final Power BI dashboard screenshot to the repository and name it `blinkit_dashboard.png`.
+
 
 ![Blinkit Sales & Delivery Analytics Dashboard](./blinkit_dashboard.png)
 
